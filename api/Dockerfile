@@ -1,5 +1,5 @@
 FROM python:3.10-alpine AS builder
-LABEL authors="daniel.c.ferreira"
+LABEL authors="rahul.maisuria"
 
 WORKDIR /
 
